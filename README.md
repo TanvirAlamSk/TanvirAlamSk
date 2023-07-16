@@ -1,7 +1,7 @@
 ![I am a frontend web developer.](https://github.com/TanvirAlamSk/TanvirAlamSk/blob/main/GitHub-Banner.jpg?raw=true)
 
-<h1 align="center">I'm Tanvir Alam</h1>
-<h3 align="center">I am a frontend web developer.</h3>
+//<h1 align="center">I'm Tanvir Alam</h1>
+//<h3 align="center">I am a frontend web developer.</h3>
 
 - 📫 How to reach me **tanviralamsk47@gmail.com**
 <h3 align="left">Connect with me: </h3>
