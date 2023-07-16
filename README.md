@@ -1,7 +1,8 @@
 <h1 align="center">I'm Tanvir Alam</h1>
 <h3 align="center">I am a frontend web developer.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me: **tanviralamsk47@gmail.com**</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanvir-alam-55b188264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-alam-55b188264" height="30" width="40" /></a>
 <a href="https://fb.com/tanvir.alam.7524879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.alam.7524879" height="30" width="40" /></a>
